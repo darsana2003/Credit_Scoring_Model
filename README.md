@@ -57,8 +57,8 @@ The dataset was collected from Kaggle and loaded using Pandas.
 - Removed extra spaces
 
 ### 5. Outlier Detection and Removal
-Outliers were detected using Boxplots.
-The IQR (Interquartile Range) method was used to handle extreme values.
+- Outliers were detected using Boxplots.
+- The IQR (Interquartile Range) method was used to handle extreme values.
 
 ### 6. Feature Engineering
 #### -Encoding
