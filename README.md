@@ -29,3 +29,30 @@ The dataset was collected from Kaggle and loaded using Pandas.
 - Duration
 - Purpose
 - Risk
+
+### 2. Data Exploration
+Initial exploration was performed to understand the dataset structure.
+
+### Steps Performed
+- Checked dataset shape
+- Viewed column names
+- Identified missing values
+- Checked duplicate values
+- Generated statistical summary
+
+### 3.Exploratory Data Analysis (EDA)
+EDA was performed to understand patterns, relationships, and customer behavior.
+
+### Visualizations Used
+#### Numerical Analysis
+- Histograms
+- Distribution plots
+- Boxplots
+#### Categorical Analysis
+- Count plots
+- Risk distribution plots
+#### Relationship Analysis
+- Correlation heatmap
+- Scatter plots
+- Pair plots
+
