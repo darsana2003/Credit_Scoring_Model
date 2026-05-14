@@ -36,8 +36,8 @@ The dataset was collected from Kaggle and loaded using Pandas.
 - Checked duplicate values
 - Generated statistical summary
 
-### 3.Exploratory Data Analysis (EDA)
-#### Visualizations Used
+### 3. Exploratory Data Analysis (EDA)
+#### Visualizations Used:
 ##### Numerical Analysis
 - Histograms
 - Distribution plots
@@ -50,33 +50,33 @@ The dataset was collected from Kaggle and loaded using Pandas.
 - Scatter plots
 - Pair plots
   
-### 4.Data Cleaning
+### 4. Data Cleaning
 - Missing Value Handling
 - Removed unnecessary columns
 - Checked inconsistent values
 - Removed extra spaces
 
-### 5.Outlier Detection and Removal
+### 5. Outlier Detection and Removal
 Outliers were detected using Boxplots.
 The IQR (Interquartile Range) method was used to handle extreme values.
 
-### 6.Feature Engineering
-#### Encoding
+### 6. Feature Engineering
+#### -Encoding
 ##### One Hot Encoding
 Used for input categorical columns.
 ##### Label Encoding
 Used for target column.
 - Good → 1
 - Bad → 0
-#### Scaling
+#### -Scaling
 ##### StandardScaler
 
-### 7.Train Test Split
+### 7. Train Test Split
 The dataset was divided into:
 - 80% Training Data
 - 20% Testing Data
 
-### 8.Model Building
+### 8. Model Building
 - Logistic Regression
 - Support Vector Machine (SVM)
 - Decision Tree Classifier
@@ -86,19 +86,19 @@ The dataset was divided into:
 - KNeighborsClassifier
 - XGBClassifier
 
-### 9.Model Evaluation
+### 9. Model Evaluation
 - Accuracy Score
 - Confusion Matrix
 - Precision Score
 - Recall Score
 - F1 Score
 
-### 10.Best Model Selection
+### 10. Best Model Selection
 The best model was selected based on overall performance metrics.
-#### Best Performing Model
+#### Best Performing Model:
 - Gradient Boosting Classifier
   
-### 11.Prediction System
+### 11. Prediction System
 A prediction system was created to classify customers as:
 - Good Risk
 - Bad Risk
@@ -108,5 +108,5 @@ A prediction system was created to classify customers as:
 3. Feature scaling
 4. Model prediction
 
-### 12.Results
+### 12. Results
 The project successfully predicts customer credit risk using Machine Learning techniques.
